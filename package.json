@@ -1,0 +1,10 @@
+{
+  "name": "two-lines-to-your-past-self",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
